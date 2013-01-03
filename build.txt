@@ -1,3 +1,0 @@
-type.ts
-parser.ts
-dtsdoc.ts
